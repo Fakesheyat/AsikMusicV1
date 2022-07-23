@@ -14,7 +14,7 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❤️‍🔥 Məni qrupa əlavə et ❤️‍🔥", url=f"https://t.me/CraftyMusicBot?startgroup=true"
+                        "❤️‍🔥 Məni qrupa əlavə et ❤️‍🔥", url=f"https://t.me/LuciMus1cBot?startgroup=true"
                     )
                 ],
                 [
@@ -22,7 +22,7 @@ async def start(_, message: Message):
                         "🐊 komandalar" , callback_data= "herkes"
                     ),
                     InlineKeyboardButton(
-                        "🇦🇿 𝖢𝗁𝖺𝗇𝗇𝖾𝗅", url="https://t.me/CraftySup"
+                        "🇦🇿 𝖢𝗁𝖺𝗇𝗇𝖾𝗅", url="https://t.me/LuciSup"
                     )
                 ],
                 [
@@ -44,10 +44,10 @@ async def herkes(_, query: CallbackQuery):
              [
                  [
                      InlineKeyboardButton(
-                         "🇹🇷 𝖠𝗌𝗂𝗌𝗍𝖺𝗇", url="https://t.me/CraftyAsistan"
+                         "🇹🇷 𝖠𝗌𝗂𝗌𝗍𝖺𝗇", url="https://t.me/RandomAsistan"
                      ),
                      InlineKeyboardButton(
-                         "🧑🏻‍💻 𝖮𝗐𝗇𝖾𝗋", url="https://t.me/iamZ3NT4"
+                         "🧑🏻‍💻 𝖮𝗐𝗇𝖾𝗋", url="https://t.me/Alpha0wner"
                      )
                  ],
                  [
@@ -67,7 +67,7 @@ async def cbstart(_, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "🎉 𝖡𝖾𝗇𝗂 𝖦𝗋𝗎𝖻𝖺 𝖤𝗄𝗅𝖾 🎉", url=f"https://t.me/CraftyMusicBot?startgroup=true"
+                        "🎉 𝖡𝖾𝗇𝗂 𝖦𝗋𝗎𝖻𝖺 𝖤𝗄𝗅𝖾 🎉", url=f"https://t.me/LuciMus1cBot?startgroup=true"
                     )
                 ],
                 [
@@ -75,7 +75,7 @@ async def cbstart(_, query: CallbackQuery):
                         "📚 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋" , callback_data= "herkes"
                     ),
                     InlineKeyboardButton(
-                        "🇹🇷 𝖢𝗁𝖺𝗇𝗇𝖾𝗅", url=f"https://t.me/CraftySup"
+                        "🇹🇷 𝖢𝗁𝖺𝗇𝗇𝖾𝗅", url=f"https://t.me/LuciSup"
                     )
                 ],
                 [
